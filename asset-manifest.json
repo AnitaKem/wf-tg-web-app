@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/AnitaKem/wf-tg-web-app/static/css/main.073c9b0a.css",
-    "main.js": "/AnitaKem/wf-tg-web-app/static/js/main.caaba249.js",
-    "static/js/787.ed086e93.chunk.js": "/AnitaKem/wf-tg-web-app/static/js/787.ed086e93.chunk.js",
-    "static/media/logo.svg": "/AnitaKem/wf-tg-web-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/AnitaKem/wf-tg-web-app/index.html",
-    "main.073c9b0a.css.map": "/AnitaKem/wf-tg-web-app/static/css/main.073c9b0a.css.map",
-    "main.caaba249.js.map": "/AnitaKem/wf-tg-web-app/static/js/main.caaba249.js.map",
-    "787.ed086e93.chunk.js.map": "/AnitaKem/wf-tg-web-app/static/js/787.ed086e93.chunk.js.map"
+    "main.css": "/wf-tg-web-app/static/css/main.073c9b0a.css",
+    "main.js": "/wf-tg-web-app/static/js/main.58c99d3e.js",
+    "static/js/787.ed086e93.chunk.js": "/wf-tg-web-app/static/js/787.ed086e93.chunk.js",
+    "static/media/logo.svg": "/wf-tg-web-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/wf-tg-web-app/index.html",
+    "main.073c9b0a.css.map": "/wf-tg-web-app/static/css/main.073c9b0a.css.map",
+    "main.58c99d3e.js.map": "/wf-tg-web-app/static/js/main.58c99d3e.js.map",
+    "787.ed086e93.chunk.js.map": "/wf-tg-web-app/static/js/787.ed086e93.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.caaba249.js"
+    "static/js/main.58c99d3e.js"
   ]
 }
